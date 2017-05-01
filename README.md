@@ -13,4 +13,4 @@ This repository holds pre-built python wheels intended for faster CI purposes.
 
 ## Using packages
 
-`pip install --find-links https://github.com/17media/pip-wheelhouse/blob/master/index.html PIP_PACKAGES`
+`pip install --find-links https://17media.github.io/pip-wheelhouse/index.html PIP_PACKAGES`
